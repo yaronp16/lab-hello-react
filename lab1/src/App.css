@@ -1,0 +1,45 @@
+body {
+  margin: 30px;
+  
+}
+
+.Section1 {
+  background-color: #1F2535;
+  height: 80vh; 
+  color: white
+
+}
+.imgCon{
+  display: flex;
+  text-align: left;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 60px 30px 60px;
+}
+.textCon{
+  padding: 30px 60px 30px 60px;
+}
+
+
+#Awesome { 
+  background-color: white;
+  color: #1F2535;
+  width: fit-content;
+  border-radius: 3px;
+  padding: 20px;
+  margin-top: 8vh;
+}
+
+.Section2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding: 30px 45px 30px 45px;
+  align-items: center;
+}
+.textOrder {
+  padding-left: 25px;
+}
+h1{
+  font-size: 60px;
+}
